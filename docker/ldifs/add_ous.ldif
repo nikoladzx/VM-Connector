@@ -1,0 +1,20 @@
+dn: ou=classrooms,dc=diplomski,dc=com
+objectClass: organizationalUnit
+objectClass: top
+ou: classrooms
+
+dn: ou=virtualmachines,dc=diplomski,dc=com
+objectClass: organizationalUnit
+objectClass: top
+ou: virtualmachines
+
+dn: ou=admins,dc=diplomski,dc=com
+objectClass: organizationalUnit
+objectClass: top
+ou: admins
+
+dn: ou=pcs,dc=diplomski,dc=com
+objectClass: organizationalUnit
+objectClass: top
+ou: pcs
+
